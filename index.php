@@ -42,6 +42,7 @@ echo htmlentities($str);
     <title>Aymen</title>
 </head>
 <body>
+
 Bonjour <?= $name; ?>
 </body>
 </html>
